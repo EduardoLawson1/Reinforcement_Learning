@@ -7,9 +7,8 @@ is environment, a taxing of each episode.
 The Taxi-v3 environment is a classic problem introduced in “Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition” by Tom Dietterich. 
 In this environment, a taxi needs to pick up a passenger from one location and drop them off at another location in a 5x5 grid world. The taxi starts at a random position, and the passenger's location and destination are also chosen randomly at the beginning of each episode.
 
-![Screenshot from 2024-07-23 21-39-41](https://github.com/user-attachments/assets/790a62cf-a4e7-4497-80d5-00a287a8680e)
+![](https://github.com/EduardoLawson1/Reinforcement_Learning/blob/main/Qlearning VS sarsa/q_learning_policy.gif)
 
-ChatGPT
 
 The training results of the Q-Learning and SARSA algorithms in the Taxi-v3 environment revealed significant differences in terms of convergence and performance. Both algorithms were trained for 10,000 episodes, with the main indicators used for evaluation being the cumulative reward per episode and the number of epochs per episode.
 
